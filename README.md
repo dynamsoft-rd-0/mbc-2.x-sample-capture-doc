@@ -16,7 +16,7 @@ advanced -> visit the page
 
 # Api
 
-[api](js/api.md)
+[api](public/js/api.md)
 
 # License Key
 
