@@ -17,3 +17,7 @@ advanced -> visit the page
 # Api
 
 [api](js/api.md)
+
+# License Key
+
+`js/script.js` about line 18
