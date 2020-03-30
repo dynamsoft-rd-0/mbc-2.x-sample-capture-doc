@@ -58,6 +58,7 @@ document.getElementById('btn-save').addEventListener('click',async()=>{
     console.log('uploaded');
 });
 
-MBC.loadCvScript().then(()=>{
+KPainter.cvFolder = "https://cdn.jsdelivr.net/npm/dynamsoft-mbc@2.1.5";
+KPainter.loadCvScript().then(()=>{
     $("#grayFog").hide();
 });
